@@ -12,7 +12,7 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 
 ## 📝 Lessons
 
-All lessons are available on YouTube. Click any title to watch:
+Click any title to watch:
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
 1. 🧱 **Tech Stack (10 min):** [Watch on YouTube](https://youtu.be/ZFtoJIQdmC4)  
